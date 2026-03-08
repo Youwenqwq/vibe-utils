@@ -76,7 +76,7 @@ wheels = [
 ]
 
 [[package]]
-name = "netease-cloud-music-cli"
+name = "ncm-downloader-cli"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

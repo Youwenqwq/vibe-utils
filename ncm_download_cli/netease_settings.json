@@ -1,8 +1,0 @@
-{
-  "api_base": "http://localhost:3000",
-  "download_dir": "./downloads",
-  "quality": "exhigh",
-  "filename_template": "{artist} - {title}",
-  "max_artists": 3,
-  "artist_separator": ", "
-}

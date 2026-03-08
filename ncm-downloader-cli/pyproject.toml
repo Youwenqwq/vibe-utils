@@ -1,7 +1,7 @@
 [project]
-name = "netease-cloud-music-cli"
+name = "ncm-downloader-cli"
 version = "0.1.0"
-description = "Add your description here"
+description = "I love ZUTOMAYO > v <"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
