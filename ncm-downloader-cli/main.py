@@ -1,19 +1,11 @@
 #!/usr/bin/env python3
 """
-网易云音乐下载器
-================
 基于 NeteaseCloudMusicApi Enhanced 的命令行工具。
-
-依赖:
-  pip install requests rich
-
-可选:
-  pip install qrcode Pillow    (二维码登录)
 
 用法:
   1. 部署 NeteaseCloudMusicApi Enhanced:
      https://neteasecloudmusicapienhanced.js.org/
-  2. python netease_music_downloader.py
+  2. uv run main.py
 """
 
 import os
